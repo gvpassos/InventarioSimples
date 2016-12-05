@@ -16,7 +16,9 @@ e as seguinte funcoes:
    . x posicao no eixo X<br>
    . y posicao no eixo Y<br>
    .sprite nome da sprite sheet que contem o icone <br>
- <br>  
+
+
+
 A classe UserInterface e a classe que monta os objetos na tela possui as seguinte funcoes 
 <br>
 >open(Itens)abre o inventario <br>
