@@ -3,14 +3,10 @@ Um inventario simples usando o phaserJS
 
 A classe Item herda de Phaser.Button a adiciona os seguintes atributos
 
-   name = nome do item
-   
-   tipo = tipo do item (ex: arma, armadura, pocao )
-   
-   damage = se o item da dano e quanto
-   
-   resitencia = defesa do item se ele tiver
-   
+   name = nome do item   
+   tipo = tipo do item (ex: arma, armadura, pocao )   
+   damage = se o item da dano e quanto   
+   resitencia = defesa do item se ele tiver   
    icone = numero do icone no spritesheet
     
 e as seguinte funcoes
